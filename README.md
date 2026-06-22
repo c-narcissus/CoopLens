@@ -1,6 +1,6 @@
 # CoopLens Skill 中外合作办学分析助手 skill
 
-> English version: [CoopLens Skill Chinese-Foreign Cooperative Education Analysis Assistant skill](#english-readme-cooplens-skill-chinese-foreign-cooperative-education-analysis-assistant-skill)
+> [English version](https://github.com/c-narcissus/CoopLens#english-readme-cooplens-skill-chinese-foreign-cooperative-education-analysis-assistant-skill)
 
 ## 中文说明
 
