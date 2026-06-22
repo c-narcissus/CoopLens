@@ -10,10 +10,6 @@ CoopLens Skill 是一个面向高中生家长的中外合作办学项目分析 s
   <img src="./architecture-zh.png" alt="CoopLens 中文架构图" width="70%">
 </p>
 
-<p align="center">
-  <img src="./feature-catalog-zh.png" alt="CoopLens 中文功能目录图" width="70%">
-</p>
-
 > 重要声明：CoopLens Skill 产出的内容由 AI 生成，真实性需要使用者自行核实，不代表任何官方意见，不能作为任何决策依据或参考。
 >
 > Skill 包文件：[`cooplens-skill-1.0.12.zip`](./cooplens-skill-1.0.12.zip)
@@ -170,10 +166,6 @@ CoopLens Skill is a skill for helping parents of high-school students analyze Ch
 
 <p align="center">
   <img src="./architecture-en.png" alt="CoopLens English architecture diagram" width="70%">
-</p>
-
-<p align="center">
-  <img src="./feature-catalog-en.png" alt="CoopLens English feature catalog diagram" width="70%">
 </p>
 
 > Important notice: CoopLens Skill output is AI-generated. Users must independently verify factual accuracy. The output does not represent any official opinion and must not be used as a decision basis or official reference.
